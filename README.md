@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="thumbnail40.png" width="800">
+</p>
+
+---
+
 # 🚀 Categorical Data Encoder Tool (Machine Learning Preprocessing)
 
 A powerful and interactive **Streamlit web application** that demonstrates how to perform **Label Encoding** and **One-Hot Encoding** on categorical data.
@@ -116,10 +122,14 @@ streamlit run app.py
 ## 👨‍💻 Author
 
 **S. Senthamil Selvan (Sen)**
-🎯 Aspiring Data Analyst | AI & ML Enthusiast
+🎯 Aspiring Ai Developer | AI & ML Enthusiast
 
-🔗 Portfolio: https://senthamill.vercel.app/
-🔗 LinkedIn: [www.linkedin.com/in/senthamil45](http://www.linkedin.com/in/senthamil45)
+## 🔗 Links
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/senthamil45)
+- 🌍 [Portfolio](https://senthamill.vercel.app/)
+- 💻 [GitHub](https://github.com/selvan-01/Encoders-in-Machine-Learning.git)
+
 
 ---
 
